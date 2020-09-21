@@ -1,0 +1,5 @@
+{
+	"version": 2,
+	"alias": ["yourdomainhere.com"],
+	"builds": [{ "src": "package.json", "use": "@now/next" }]
+}
